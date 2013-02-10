@@ -12,7 +12,6 @@ Gem::Specification.new do |s|
 
   s.files = Dir['lib/**/*', 'LICENSE', 'README.md']
 
-  s.add_dependency 'RedCloth',   '~> 4.2'
   s.add_dependency 'kramdown',  '~> 0.14.2'
   s.add_dependency 'actionpack', '~> 3.0'
 
